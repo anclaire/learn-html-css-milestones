@@ -285,8 +285,8 @@ You should be able to...
 
 - [X] Use [Github Pages](https://docs.github.com/en/github/working-with-github-pages) to publish this project to the web
 - [X] Validate your [HTML](https://validator.w3.org/) and [CSS](https://jigsaw.w3.org/css-validator/)
-- [X] ✏️ Replace this: **[https://github.com/*username*/learn-html-css-milestones](https://github.com/*username*/learn-html-css-milestones)** with your Github.com/repository url.
-- [X?] ✏️ Replace this: **[https://*username*.github.io/learn-html-css-milestones](https://*username*.github.io/learn-html-css-milestones)** with your repo's Github Page url.
+- [X] ✏️ Replace this: **[https://github.com/anclaire/learn-html-css-milestones](https://github.com/anclaire/learn-html-css-milestones)** with your Github.com/repository url.
+- [X?] ✏️ Replace this: **[https://anclaire.github.io/learn-html-css-milestones/](https://anclaire.github.io/learn-html-css-milestones/)** with your repo's Github Page url.
 
 
 
